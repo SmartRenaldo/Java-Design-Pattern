@@ -1,0 +1,2 @@
+A Decorator pattern can be used to attach additional responsibilities to an object either statically
+or dynamically. A Decorator provides an enhanced interface to the original object.
